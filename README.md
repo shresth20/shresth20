@@ -12,6 +12,7 @@ My knowledge and skills to create innovative solutions that make a difference in
 Let's connect and explore opportunities to collaborate or share insights about the exciting world of software engineering. Feel free to reach out to me; I'd love to connect and discuss our shared interests!
 <br/>
 ### 😋 Connect Me on:
+
 <a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='40px'/></a>
 <a href='https://twitter.com/shresthkasera'><img align='left' alt="twitter" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Twitter.svg" height='40px'/></a>
 <a href='https://discordapp.com/users/shresth20'><img align='left' alt="Discord" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Discord.svg" height='40px'/></a>
@@ -19,6 +20,7 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <!--<a href=''><img alt="" src="" height='40px'/></a>-->
 <br/>
 ### 😉 More About Me:
+
 - 🔭 I’m currently working as CS Student !
 - 🌱 I’m currently learning MERN stack !
 - 👯 I’m looking to collaborate on ...
@@ -29,6 +31,7 @@ Let's connect and explore opportunities to collaborate or share insights about t
 - ⚡ Fun fact: Memer hu bro😄 !!
 <br/>
 ### 🔨 Languages and Tools:
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/python/python-original.svg"></a>
 <a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/html5/html5-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/css3/css3-original.svg"> </a>
