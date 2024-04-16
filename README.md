@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 -->
 
 ### 😋 Connect Me on:
-<a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/media/linkedin.svg" height='18px'/></a>
-
-<a href='https://twitter.com/shresthkasera'><img align='left' alt="twitter" src="https://github.com/shresth20/shresth20/blob/main/media/twitter.svg" height='18px'/></a>
-<!-- <a href=''><img alt="kaggle" src="" height='18px'/></a> -->
+<a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='18px'/></a>
+<a href='https://twitter.com/shresthkasera'><img align='left' alt="twitter" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Twitter.svg" height='18px'/></a>
+<a href='https://discordapp.com/users/shresth20'><img align='left' alt="Discord" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Discord.svg" height='18px'/></a>
+<a href='https://stackoverflow.com/users/22510286/shresth-kasera?tab=profile'><img alt="Stackoverflow" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Stackoverflow.svg" height='18px'/></a>
+<!--<a href=''><img alt="" src="" height='18px'/></a>
+<a href=''><img alt="" src="" height='18px'/></a>
+<a href=''><img alt="" src="" height='18px'/></a>
+<a href=''><img alt="" src="" height='18px'/></a>-->
 <br/>
 <br/>
 
@@ -49,20 +53,18 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/python/python.svg"></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/html/html.svg"> </a>
-<a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/css/css.svg"> </a>
-<a href="https://git-scm.com/" align="left" alt="git" target="_blank"> <img src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="" target="_blank"> <img align="left" alt="github" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/github/github-original.svg"> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/python/python-original.svg"></a>
+<a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/html5/html5-original.svg"> </a>
+<a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/css3/css3-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/javascript/javascript-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="mongoDB" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/mongodb/mongodb-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="express" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/express/express-original.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/node/node.svg"></a>
-
-<a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a>
-<a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/react/react-original.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://git-scm.com/" align="left" alt="git" target="_blank"> <img src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/git/git-original.svg" align="left" alt="git" height='42px'/> </a>
+<a href="" target="_blank"> <img align="left" alt="github" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/github/github-original.svg"> </a>
+<a href="" target="_blank"> <img align="left" alt="pycharm" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/pycharm/pycharm-original.svg"> </a>
+<a href="" target="_blank"> <img align="left" alt="vscode" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/vscode/vscode-original.svg"> </a>
 
 
 
