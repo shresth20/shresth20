@@ -10,7 +10,7 @@ My knowledge and skills to create innovative solutions that make a difference in
 <br/>
 
 Let's connect and explore opportunities to collaborate or share insights about the exciting world of software engineering. Feel free to reach out to me; I'd love to connect and discuss our shared interests!
-
+<br/>
 ### 😋 Connect Me on:
 
 <a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='40px'/></a>
