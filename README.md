@@ -18,9 +18,7 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <a href='https://stackoverflow.com/users/22510286/shresth-kasera?tab=profile'><img alt="Stackoverflow" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Stackoverflow.svg" height='40px'/></a>
 <!--<a href=''><img alt="" src="" height='40px'/></a>-->
 <br/>
-<br/>
 ### 😉 More About Me:
-
 - 🔭 I’m currently working as CS Student !
 - 🌱 I’m currently learning MERN stack !
 - 👯 I’m looking to collaborate on ...
@@ -30,9 +28,7 @@ Let's connect and explore opportunities to collaborate or share insights about t
 - 😄 Checkout my [resume]()
 - ⚡ Fun fact: Memer hu bro😄 !!
 <br/>
-<br/>
 ### 🔨 Languages and Tools:
-
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/python/python-original.svg"></a>
 <a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/html5/html5-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/css3/css3-original.svg"> </a>
@@ -47,7 +43,6 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <a href="" target="_blank"> <img align="left" alt="vscode" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/vscode/vscode-original.svg"> </a>
 
 <!-- <a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
-<br/>
 <br/>
 
 <!--### 🛠️ My Projects
