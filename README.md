@@ -52,12 +52,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/python/python.svg"></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
-<a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/css/css.svg"> </a>
-
 <a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/html/html.svg"> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/css/css.svg"> </a>
+<a href="https://git-scm.com/" align="left" alt="git" target="_blank"> <img src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="" target="_blank"> <img align="left" alt="github" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/github/github-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="mongoDB" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/mongodb/mongodb-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="express" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/express/express-original.svg"> </a>
