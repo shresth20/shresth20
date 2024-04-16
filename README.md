@@ -23,11 +23,10 @@ Let's connect and explore opportunities to collaborate or share insights about t
 
 - 🔭 I’m currently working as CS Student !
 - 🌱 I’m currently learning MERN stack !
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on MERN stack projects.
 - 💬 Ask me about anything tech related, I am happy to help !!
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shresth-kasera)
-- 😄 Checkout my [resume]()
+- 😄 Checkout my [Resume]()
 - ⚡ Fun fact: Memer hu bro😄 !!
 
 ### 🔨 Languages and Tools:
