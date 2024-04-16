@@ -2,16 +2,15 @@
 
 ![header_](https://github.com/shresth20/shresth20/assets/138902550/c0be5ad9-90c9-4674-b4f6-3f1d633294e0)
 
-<br/>
 I'm Shresth Kasera, a passionate software enthusiast, 
 <br/>
 My passion for coding drives me to constantly learn and grow in this ever-evolving field, I've spent significant time honing my skills. 
 <br/>
 My knowledge and skills to create innovative solutions that make a difference in the tech world.
 <br/>
-<br/>
+
 Let's connect and explore opportunities to collaborate or share insights about the exciting world of software engineering. Feel free to reach out to me; I'd love to connect and discuss our shared interests!
-<br/>
+
 ### 😋 Connect Me on:
 
 <a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='40px'/></a>
