@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 -->
 
 ### 😋 Connect Me on:
-<a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='18px'/></a>
-<a href='https://twitter.com/shresthkasera'><img align='left' alt="twitter" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Twitter.svg" height='18px'/></a>
-<a href='https://discordapp.com/users/shresth20'><img align='left' alt="Discord" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Discord.svg" height='18px'/></a>
-<a href='https://stackoverflow.com/users/22510286/shresth-kasera?tab=profile'><img alt="Stackoverflow" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Stackoverflow.svg" height='18px'/></a>
-<!--<a href=''><img alt="" src="" height='18px'/></a>
-<a href=''><img alt="" src="" height='18px'/></a>
-<a href=''><img alt="" src="" height='18px'/></a>
-<a href=''><img alt="" src="" height='18px'/></a>-->
+<a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='40px'/></a>
+<a href='https://twitter.com/shresthkasera'><img align='left' alt="twitter" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Twitter.svg" height='40px'/></a>
+<a href='https://discordapp.com/users/shresth20'><img align='left' alt="Discord" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Discord.svg" height='40px'/></a>
+<a href='https://stackoverflow.com/users/22510286/shresth-kasera?tab=profile'><img alt="Stackoverflow" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Stackoverflow.svg" height='40px'/></a>
+<!--<a href=''><img alt="" src="" height='40px'/></a>-->
 <br/>
 <br/>
 
