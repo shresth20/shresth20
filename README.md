@@ -9,10 +9,8 @@ My passion for coding drives me to constantly learn and grow in this ever-evolvi
 My knowledge and skills to create innovative solutions that make a difference in the tech world.
 <br/>
 <br/>
-
 Let's connect and explore opportunities to collaborate or share insights about the exciting world of software engineering. Feel free to reach out to me; I'd love to connect and discuss our shared interests!
 <br/>
-
 ### 😋 Connect Me on:
 <a href='https://www.linkedin.com/in/shresth-kasera'><img align='left' alt="linkedin" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/LinkedIN.svg" height='40px'/></a>
 <a href='https://twitter.com/shresthkasera'><img align='left' alt="twitter" src="https://github.com/shresth20/shresth20/blob/main/social_media/SVG/Color/Twitter.svg" height='40px'/></a>
@@ -21,7 +19,6 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <!--<a href=''><img alt="" src="" height='40px'/></a>-->
 <br/>
 <br/>
-
 ### 😉 More About Me:
 
 - 🔭 I’m currently working as CS Student !
@@ -32,10 +29,8 @@ Let's connect and explore opportunities to collaborate or share insights about t
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shresth-kasera)
 - 😄 Checkout my [resume]()
 - ⚡ Fun fact: Memer hu bro😄 !!
-
 <br/>
 <br/>
-
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/python/python-original.svg"></a>
@@ -52,7 +47,6 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <a href="" target="_blank"> <img align="left" alt="vscode" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/vscode/vscode-original.svg"> </a>
 
 <!-- <a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
-
 <br/>
 <br/>
 
