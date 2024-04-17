@@ -26,7 +26,7 @@ Let's connect and explore opportunities to collaborate or share insights about t
 - 👯 I’m looking to collaborate on MERN stack projects.
 - 💬 Ask me about anything tech related, I am happy to help !!
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shresth-kasera)
-- 😄 Checkout my [Resume]()
+- 😄 Checkout my [Resume](https://drive.google.com/file/d/18xBV4sE8B0kq6AC9U7ztFq864VNurF5M/view?usp=drivesdk)
 - ⚡ Fun fact: Memer hu bro😄 !!
 
 ### 🔨 Languages and Tools:
