@@ -35,6 +35,7 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/html5/html5-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/css3/css3-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/javascript/javascript-original.svg"> </a>
+<a href="" target="_blank"> <img align="left" alt="bootstrap" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/bootstrap/bootstrap-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="mongoDB" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/mongodb/mongodb-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="express" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/express/express-original.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/react/react-original.svg"></a>
@@ -44,9 +45,16 @@ Let's connect and explore opportunities to collaborate or share insights about t
 <a href="" target="_blank"> <img align="left" alt="github" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/github/github-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="pycharm" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/pycharm/pycharm-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="vscode" height ="42px" src="https://github.com/shresth20/shresth20/blob/main/language_and_tools/icons/vscode/vscode-original.svg"> </a>
-
-<!-- <a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
+ 
+<!--<a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
+<!--<a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
+<!--<a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
+<!--<a href="" target="_blank"> <img align="left" alt="" height ="42px" src=""> </a> -->
 <br/>
 
 <!--### 🛠️ My Projects
+<a href="" target="_blank"> <img alt="" src="" height="68" align="left"> </a> 
+<a href="" target="_blank"> <img alt="" src="" height="68" align="left"> </a> 
+<a href="" target="_blank"> <img alt="" src="" height="68" align="left"> </a> -->
+
 <a href="" target="_blank"> <img alt="" src="" height="68" align="left"> </a> -->
